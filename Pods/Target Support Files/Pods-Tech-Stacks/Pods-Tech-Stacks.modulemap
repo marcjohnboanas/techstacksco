@@ -1,0 +1,6 @@
+framework module Pods_Tech_Stacks {
+  umbrella header "Pods-Tech-Stacks-umbrella.h"
+
+  export *
+  module * { export * }
+}
